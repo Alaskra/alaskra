@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning c++ and python
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Alaskra&show_icons=true)
